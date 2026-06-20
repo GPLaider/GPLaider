@@ -6,6 +6,7 @@ I build small, useful tools for Android and Windows with a bias toward source-av
 
 ## Projects
 
+- [Rufid](https://github.com/GPLaider/rufid) - Clean Android USB image writer with FreeDOS, write verification, USB inspection, and guarded FAT32/exFAT recovery flows.
 - [Ventoid](https://github.com/GPLaider/Ventoid) - Android OTG Ventoy-style USB writer. GPL-3.0-only, available on [F-Droid](https://f-droid.org/packages/com.ventoid.app/).
 - [zipzip](https://github.com/GPLaider/zipzip) - Windows-first Korean-friendly archive manager built with WinUI 3.
 
